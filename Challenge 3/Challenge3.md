@@ -1,4 +1,4 @@
-After completing challenge 1, we move onto challenge 2 by typing 2 into the serial monitor.
+After completing challenge 2, we move onto challenge 3 by typing 2 into the serial monitor.
 
 And the challenge presented is:
 
