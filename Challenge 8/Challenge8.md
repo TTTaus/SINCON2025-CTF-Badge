@@ -18,3 +18,5 @@ This challenge is rather simple - its a T9 code!
 Translating it directly, we get `DRAG0N-N3ST`. Entering **drag0n-n3st** into the serial monitor, we have completed this challenge and the Badge itself!
 
 ![Front](Challenge8Solved.png)
+
+![Front](badgeSolved.png)
