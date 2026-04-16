@@ -4,7 +4,7 @@ Again, we are starting with a base64 challange.
 
 `aGFja2Vyd2FyZS5pby9zaW5jb24yMDI1LWdlcmJlci56aXA=`
 
-This time we get [hackerware.io/sincon2025-gerber.zip](https://hackerware.io/sincon2025-gerber.zip). Inside the zip file, a bunch of files with the .gbr files. These are gerber files used in designing PCB's, or in this case, design of the badge itself.
+This time we get [hackerware.io/sincon2025-gerber.zip](https://hackerware.io/sincon2025-gerber.zip). Inside the ![zip](sincon2025-gerber.zip) file, a bunch of files with the .gbr files. These are gerber files used in designing PCB's, or in this case, design of the badge itself.
 
 Using an [online viewer](https://www.pcbway.com/project/OnlineGerberViewer.html), we get to see the design itself.
 
