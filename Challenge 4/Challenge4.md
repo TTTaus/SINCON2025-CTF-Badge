@@ -1,4 +1,4 @@
-After completing challenge 1, we move onto challenge 2 by typing 3 into the serial monitor.
+After completing challenge 3, we move onto challenge 4 by typing 3 into the serial monitor.
 
 Again, we are starting with a base64 challange.
 
